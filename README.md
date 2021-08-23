@@ -67,4 +67,47 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
 
+## Unofficial Version History
 
+| Date | Version | Notes |  
+|-|-|-|
+| 2016-02-16 | 0.8.1.0 | - Add support for UNC paths for `--tsource` and `--tdest`<br> - Better detection when out of storage space on destination<br>- Add check when `--mdest` and `--tdest` are the same and disallow it<br>- Warn when `--msource` != --tdest<br>- Clarify EULA section 1.3 as it relates to usage |  
+| 2019-03-05 | 0.8.2.0 | |
+| 2019-03-15 | 0.8.3.0 | |
+| 2019-04-24 |  | |
+| 2019-05-01 |  | |
+| 2019-05-01 |  | |
+| 2019-05-03 |  | |
+| 2019-05-16 |  | |
+| 2019-06-04 |  | |
+| 2019-06-25 |  | |
+| 2019-07-01 |  | |
+| 2019-07-22 |  | |
+| 2019-07-29 |  | |
+| 2019-08-09 |  | |
+| 2019-08-15 |  | |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
