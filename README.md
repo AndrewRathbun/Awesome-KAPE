@@ -1,7 +1,44 @@
 # Awesome-KAPE
 In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list of KAPE-related resources, including but not limited to blog posts, videos, and links to relevant GitHub repos. 
 
-- [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
+## Official KAPE Links
+- [Download KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)
+- [KAPE Enterprise License](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/enterprise-license)
+  - TL;DR: if you make money off KAPE in a paid engagement, you need a license! Otherwise, it's free for everyone else including but not limited to Law Enforcement, students, researchers, etc
+- [KAPE Training](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/training)
+
+## Tool-Related GitHub Repos
+
+### KAPE
+
+- [KapeFiles](https://github.com/EricZimmerman/KapeFiles) - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+- [KapeDocs](https://github.com/EricZimmerman/KapeDocs) - This repository serves as the backend for KAPE's KapeDocs page, linked [here](https://ericzimmerman.github.io/KapeDocs/)
+
+### EZ Tools
+
+The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md) ship with KAPE, so they are very relevant to KAPE's overall functionality. The following EZ Tools have KAPE Modules written for them and these repos should be monitored for activity given that they will directly influence KAPE output:
+
+  - [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser)
+  - [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser)
+  - [bstrings](https://github.com/EricZimmerman/bstrings)
+  - [EvtxECmd](https://github.com/EricZimmerman/evtx)
+    - Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) where EvtxECmd Maps are located
+  - [JLECmd](https://github.com/EricZimmerman/JLECmd)
+  - [LECmd](https://github.com/EricZimmerman/LECmd)
+  - [MFTECmd](https://github.com/EricZimmerman/MFTECmd)
+  - [PECmd](https://github.com/EricZimmerman/PECmd)
+  - [RBCmd](https://github.com/EricZimmerman/RBCmd)
+  - [RecentFileCacheParser](https://github.com/EricZimmerman/RecentFileCacheParser)
+  - [RECmd](https://github.com/EricZimmerman/RECmd)
+    - Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) where Batch Files are located
+    - Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
+  - [SQLECmd](https://github.com/EricZimmerman/SQLECmd)
+    - Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) where SQLECmd Maps are located
+  - [SrumECmd](https://github.com/EricZimmerman/Srum)
+  - [SumECmd](https://github.com/EricZimmerman/Sum)
+  - [WxTCmd](https://github.com/EricZimmerman/WxTCmd)
+
+## Resources
 
 ### Blog Posts/Guides
 
@@ -30,6 +67,4 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
 
-### Eric Zimmerman's Tools
 
-All of Eric Zimmerman's tools can be downloaded [here](https://ericzimmerman.github.io/#!index.md). Use the [Get-ZimmermanTools](https://f001.backblazeb2.com/file/EricZimmermanTools/Get-ZimmermanTools.zip) PowerShell script to automate the download and updating of the EZ Tools suite. Additionally, you can automate each of these tools using [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape)!
