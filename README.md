@@ -44,6 +44,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 - [AboutDFIR's KAPE Guide](https://aboutdfir.com/toolsandartifacts/windows/kape/)
 - [Exploring KAPE’s Graphical User Interface in v0.8.2.0](https://www.kroll.com/en/insights/publications/cyber/exploring-kapes-graphical-user-interface)
+- [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 
 ### YouTube Videos
 
@@ -63,6 +64,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [Episode 87: Introducing and Using Timeline Explorer](https://youtu.be/Hy8ZIc86tCo)
 - [Episode 88: Comparing EZViewer to Other Free File Viewers](https://youtu.be/r4X5ONbwlSk)
 - [Episode 89: Finding Forensic Badness in 3 Minutes or Less](https://youtu.be/V-pBwAGsQvw)
+- EZ Tools/KAPE: How to Contribute to and Benefit from Open Source Contributions (Link TBD)
 - [Introduction to KAPE](https://youtu.be/L9H1uj2HSb8)
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
