@@ -46,6 +46,10 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [Exploring KAPE’s Graphical User Interface in v0.8.2.0](https://www.kroll.com/en/insights/publications/cyber/exploring-kapes-graphical-user-interface)
 - [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 
+## SANS Poster
+
+- [Eric Zimmerman's Results in Seconds at the Command-Line Poster](https://www.sans.org/posters/eric-zimmermans-results-in-seconds-at-the-command-line-poster/)
+
 ### YouTube Videos
 
 - [A Guide to Eric Zimmerman's command line tools (EZ Tools)](https://youtu.be/GhCZfCzn2l0)
@@ -68,10 +72,6 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [Introduction to KAPE](https://youtu.be/L9H1uj2HSb8)
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
-
-## SANS Poster
-
-- [Eric Zimmerman's Results in Seconds at the Command-Line Poster](https://www.sans.org/posters/eric-zimmermans-results-in-seconds-at-the-command-line-poster/)
 
 ## Unofficial Version History
 
