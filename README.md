@@ -69,6 +69,10 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
 
+## SANS Poster
+
+- [Eric Zimmerman's Results in Seconds at the Command-Line Poster](https://www.sans.org/posters/eric-zimmermans-results-in-seconds-at-the-command-line-poster/)
+
 ## Unofficial Version History
 
 | Date | Version | Notes |  
