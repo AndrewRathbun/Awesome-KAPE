@@ -48,6 +48,8 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 
 - [AboutDFIR's KAPE Guide](https://aboutdfir.com/toolsandartifacts/windows/kape/)
 - [Exploring KAPE’s Graphical User Interface in v0.8.2.0](https://www.kroll.com/en/insights/publications/cyber/exploring-kapes-graphical-user-interface)
+- [Forensically Unpacking EventTranscript.db: An Investigative Series](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript)
+  - Namely, [Parsing EventTranscript.db With KAPE and SQLECmd](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript/parsing-eventtranscript-with-kape-and-sqlecmd)
 - [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 
 ## SANS Poster
