@@ -52,6 +52,10 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   - Namely, [Parsing EventTranscript.db With KAPE and SQLECmd](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript/parsing-eventtranscript-with-kape-and-sqlecmd)
 - [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 
+## Mind Maps
+
+- [DFIRMindMaps - KAPE](https://github.com/rathbuna/DFIRMindMaps/tree/main/Tools/KAPE)
+
 ## SANS Poster
 
 - [Eric Zimmerman's Results in Seconds at the Command-Line Poster](https://www.sans.org/posters/eric-zimmermans-results-in-seconds-at-the-command-line-poster/)
