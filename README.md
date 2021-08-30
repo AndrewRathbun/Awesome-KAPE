@@ -42,6 +42,10 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   - [SumECmd](https://github.com/EricZimmerman/Sum)
   - [WxTCmd](https://github.com/EricZimmerman/WxTCmd)
 
+## Updating KAPE and EZ Tools
+
+- [KAPE-EZToolsAncillaryUpdater](https://github.com/rathbuna/KAPE-EZToolsAncillaryUpdater) - Keep KAPE and all tools located within `.\KAPE\Modules\bin\*` updated with a single PowerShell script!
+
 ## Resources
 
 ### Blog Posts/Guides
