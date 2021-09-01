@@ -82,7 +82,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [Episode 87: Introducing and Using Timeline Explorer](https://youtu.be/Hy8ZIc86tCo)
 - [Episode 88: Comparing EZViewer to Other Free File Viewers](https://youtu.be/r4X5ONbwlSk)
 - [Episode 89: Finding Forensic Badness in 3 Minutes or Less](https://youtu.be/V-pBwAGsQvw)
-- EZ Tools/KAPE: How to Contribute to and Benefit from Open Source Contributions (Link TBD)
+- [EZ Tools/KAPE: How to Contribute to and Benefit from Open Source Contributions](https://www.youtube.com/watch?v=mIb1GQP3ciE)
 - [Introduction to KAPE](https://youtu.be/L9H1uj2HSb8)
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
