@@ -23,6 +23,7 @@ Official GitHub repositories:
 Community KAPE-related GitHub repositories:
 
 - [DFRWS-2019-KAPE-Workshop](https://github.com/mark-hallman/DFRWS-2019-KAPE-Workshop)
+- [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries)
 - [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline)
 - [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
 - [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape)
