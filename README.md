@@ -15,8 +15,23 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 ### KAPE
 
+Official GitHub repositories:
+
 - [KapeFiles](https://github.com/EricZimmerman/KapeFiles) - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
 - [KapeDocs](https://github.com/EricZimmerman/KapeDocs) - This repository serves as the backend for KAPE's KapeDocs page, linked [here](https://ericzimmerman.github.io/KapeDocs/)
+
+Community KAPE-related GitHub repositories:
+
+- [DFRWS-2019-KAPE-Workshop](https://github.com/mark-hallman/DFRWS-2019-KAPE-Workshop)
+- [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline)
+- [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
+- [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape)
+- [iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader)
+- [kape-at-scale](https://github.com/mark-hallman/kape-at-scale)
+- [KAPE-Automation](https://github.com/Beercow/KAPE-Automation)
+- [kape-remote-collections](https://github.com/mark-hallman/kape-remote-collections)
+- [KAPE_Tools](https://github.com/mdegrazia/KAPE_Tools)
+- [RemoteKapeTriage](https://github.com/Richard1611/RemoteKapeTriage)
 
 ### EZ Tools
 
@@ -54,6 +69,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [Exploring KAPE’s Graphical User Interface in v0.8.2.0](https://www.kroll.com/en/insights/publications/cyber/exploring-kapes-graphical-user-interface)
 - [Forensically Unpacking EventTranscript.db: An Investigative Series](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript)
   - Namely, [Parsing EventTranscript.db With KAPE and SQLECmd](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript/parsing-eventtranscript-with-kape-and-sqlecmd)
+- [KAPE at Scale](https://malwaremaloney.blogspot.com/2020/06/kape-at-scale.html)
 - [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 
 ## Mind Maps
