@@ -18,7 +18,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 Official GitHub repositories:
 
 - [KapeFiles](https://github.com/EricZimmerman/KapeFiles) - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
-- [KapeDocs](https://github.com/EricZimmerman/KapeDocs) - This repository serves as the backend for KAPE's KapeDocs page, linked [here](https://ericzimmerman.github.io/KapeDocs/)
+- [KapeDocs](https://github.com/EricZimmerman/KapeDocs) - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
 Community KAPE-related GitHub repositories:
 
