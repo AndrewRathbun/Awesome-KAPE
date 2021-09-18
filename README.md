@@ -30,6 +30,7 @@ Community KAPE-related GitHub repositories:
 - [iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader)
 - [kape-at-scale](https://github.com/mark-hallman/kape-at-scale)
 - [KAPE-Automation](https://github.com/Beercow/KAPE-Automation)
+- [KAPE-Binary-Downloads](https://github.com/esecrpm/KAPE-Binary-Downloads)
 - [kape-remote-collections](https://github.com/mark-hallman/kape-remote-collections)
 - [KAPE_Tools](https://github.com/mdegrazia/KAPE_Tools)
 - [RemoteKapeTriage](https://github.com/Richard1611/RemoteKapeTriage)
