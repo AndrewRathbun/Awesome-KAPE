@@ -15,12 +15,13 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 ### KAPE
 
-Official GitHub repositories:
+#### Official GitHub repositories:
 
 - [KapeFiles](https://github.com/EricZimmerman/KapeFiles) - This repository contains all the Targets and Modules utilized by KAPE to collect and process forensic artifacts
+    - [KapeFiles GitHub Project](https://github.com/EricZimmerman/KapeFiles/projects/1) 
 - [KapeDocs](https://github.com/EricZimmerman/KapeDocs) - This repository serves as the backend for KAPE's Official Documentation, linked [here](https://ericzimmerman.github.io/KapeDocs/)
 
-Community KAPE-related GitHub repositories:
+#### Community KAPE-related GitHub repositories:
 
 - [DFRWS-2019-KAPE-Workshop](https://github.com/mark-hallman/DFRWS-2019-KAPE-Workshop)
 - [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries)
@@ -37,13 +38,16 @@ Community KAPE-related GitHub repositories:
 
 ### EZ Tools
 
-The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md) ship with KAPE, so they are very relevant to KAPE's overall functionality. The following EZ Tools have KAPE Modules written for them and these repos should be monitored for activity given that they will directly influence KAPE output:
+The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md) ship with KAPE, so they are very relevant to KAPE's overall functionality. The following EZ Tools have KAPE Modules written for them and these repos should be monitored for activity given that they will directly influence KAPE output.
+
+#### Official GitHub repositories:
 
   - [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser)
   - [AppCompatCacheParser](https://github.com/EricZimmerman/AppCompatCacheParser)
   - [bstrings](https://github.com/EricZimmerman/bstrings)
   - [EvtxECmd](https://github.com/EricZimmerman/evtx)
     - Namely, [Maps](https://github.com/EricZimmerman/evtx/tree/master/evtx/Maps) where EvtxECmd Maps are located
+        - [EvtxECmd GitHub Project](https://github.com/EricZimmerman/evtx/projects/1)
   - [JLECmd](https://github.com/EricZimmerman/JLECmd)
   - [LECmd](https://github.com/EricZimmerman/LECmd)
   - [MFTECmd](https://github.com/EricZimmerman/MFTECmd)
@@ -51,10 +55,14 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   - [RBCmd](https://github.com/EricZimmerman/RBCmd)
   - [RecentFileCacheParser](https://github.com/EricZimmerman/RecentFileCacheParser)
   - [RECmd](https://github.com/EricZimmerman/RECmd)
-    - Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) where Batch Files are located
+    - Namely, [BatchExamples](https://github.com/EricZimmerman/RECmd/tree/master/BatchExamples) where Batch Files are 
+        - [RECmd Kroll Batch GitHub Project](https://github.com/EricZimmerman/RECmd/projects/1)
     - Also, [RegistryPlugins](https://github.com/EricZimmerman/RegistryPlugins) which are used by RECmd (and Registry Explorer) to generate more efficient/actionable output
+        - [Registry Explorer Plugins GitHub Project](https://github.com/EricZimmerman/RegistryPlugins/projects/1)
+  - [Registry Explorer Bookmarks GitHub Project](https://github.com/EricZimmerman/RegistryExplorerBookmarks/projects/1) are used only by Registry Explorer
   - [SQLECmd](https://github.com/EricZimmerman/SQLECmd)
     - Namely, [Maps](https://github.com/EricZimmerman/SQLECmd/tree/master/SQLMap/Maps) where SQLECmd Maps are located
+        - [SQLECmd GitHub Project](https://github.com/EricZimmerman/SQLECmd/projects/1)
   - [SrumECmd](https://github.com/EricZimmerman/Srum)
   - [SumECmd](https://github.com/EricZimmerman/Sum)
   - [WxTCmd](https://github.com/EricZimmerman/WxTCmd)
