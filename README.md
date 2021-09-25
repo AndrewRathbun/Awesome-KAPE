@@ -7,9 +7,9 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
   - TL;DR: if you make money off KAPE in a paid engagement, you need a license! Otherwise, it's free for everyone else including but not limited to Law Enforcement, students, researchers, etc
 - [KAPE Training](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/training) - Kroll offers a one-day intensive training covering EZ Tools and KAPE. Email [kape@kroll.com](mailto:kape@kroll.com) for more information or complete the `Book a Session Today` form
 
-## Upcoming Webinars
+## Recent Webinars
 
-[How to Use KAPE and SQLECmd with EventTranscript.db](https://www.kroll.com/en/insights/events/2021/webcast-kape-and-sqlecmd-with-eventtranscript) - 9/21/2021
+[How to Use KAPE and SQLECmd with EventTranscript.db](https://www.kroll.com/en/insights/events/2021/webcast-kape-and-sqlecmd-with-eventtranscript) - 9/21/2021, YouTube link coming soon!
 
 ## Tool-Related GitHub Repos
 
