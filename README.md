@@ -7,10 +7,6 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
   - TL;DR: if you make money off KAPE in a paid engagement, you need a license! Otherwise, it's free for everyone else including but not limited to Law Enforcement, students, researchers, etc
 - [KAPE Training](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/training) - Kroll offers a one-day intensive training covering EZ Tools and KAPE. Email [kape@kroll.com](mailto:kape@kroll.com) for more information or complete the `Book a Session Today` form
 
-## Recent Webinars
-
-[How to Use KAPE and SQLECmd with EventTranscript.db](https://www.kroll.com/en/insights/events/2021/webcast-kape-and-sqlecmd-with-eventtranscript) - 9/21/2021, YouTube link coming soon!
-
 ## Tool-Related GitHub Repos
 
 ### KAPE
@@ -109,6 +105,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [Episode 88: Comparing EZViewer to Other Free File Viewers](https://youtu.be/r4X5ONbwlSk)
 - [Episode 89: Finding Forensic Badness in 3 Minutes or Less](https://youtu.be/V-pBwAGsQvw)
 - [EZ Tools/KAPE: How to Contribute to and Benefit from Open Source Contributions](https://www.youtube.com/watch?v=mIb1GQP3ciE)
+- [How to Use KAPE and SQLECmd with EventTranscript.db](https://youtu.be/DoVStoCJrog)
 - [Introduction to KAPE](https://youtu.be/L9H1uj2HSb8)
 - [KAPE + EZ Tools and Beyond - OSDFCon 2019 - Eric Zimmerman](https://youtu.be/ZCj7cbWwUOs)
 - [Triage Collection and Timeline Analysis with KAPE](https://youtu.be/iYyWZSNBNcw)
