@@ -6,6 +6,10 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [KAPE Enterprise License](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/enterprise-license)
   - TL;DR: if you make money off KAPE in a paid engagement, you need a license! Otherwise, it's free for everyone else including but not limited to Law Enforcement, students, researchers, etc
 - [KAPE Training](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/training) - Kroll offers a one-day intensive training covering EZ Tools and KAPE. Email [kape@kroll.com](mailto:kape@kroll.com) for more information or complete the `Book a Session Today` form
+- KAPE Quarterly Updated
+  - [KAPE Quarterly Update – Q1 2021](https://www.kroll.com/en-ca/insights/publications/cyber/kape-quarterly-update-q1-2021)
+  - [KAPE Quarterly Update – Q2 2021](https://www.kroll.com/en-ca/insights/publications/cyber/kape-quarterly-update-q2-2021)
+  - [KAPE Quarterly Update – Q3 2021](https://www.kroll.com/en-ca/insights/publications/cyber/kape-quarterly-update-q3-2021)
 
 ## Tool-Related GitHub Repos
 
