@@ -24,6 +24,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 #### Community KAPE-related GitHub repositories:
 
 - [DFRWS-2019-KAPE-Workshop](https://github.com/mark-hallman/DFRWS-2019-KAPE-Workshop)
+- [ForensicImageKAPEOutput](https://github.com/AndrewRathbun/ForensicImageKAPEOutput)
 - [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries)
 - [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline)
 - [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
