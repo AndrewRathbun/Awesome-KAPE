@@ -83,7 +83,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
   - Namely, [Parsing EventTranscript.db With KAPE and SQLECmd](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript/parsing-eventtranscript-with-kape-and-sqlecmd)
 - [KAPE at Scale](https://malwaremaloney.blogspot.com/2020/06/kape-at-scale.html)
 - [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
-- [Adding RAM Collections to KAPE Triage] (https://bakerstreetforensics.com/2021/12/13/adding-ram-collections-to-kape-triage/)
+- [Adding RAM Collections to KAPE Triage](https://bakerstreetforensics.com/2021/12/13/adding-ram-collections-to-kape-triage/)
 
 ## Mind Maps
 
