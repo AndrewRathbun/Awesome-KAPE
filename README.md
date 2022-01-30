@@ -30,6 +30,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline)
 - [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
 - [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape)
+- [IRCP](https://github.com/hackjalstead/IRCP)
 - [iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader)
 - [kape-at-scale](https://github.com/mark-hallman/kape-at-scale)
 - [KAPE-Automation](https://github.com/Beercow/KAPE-Automation)
