@@ -161,3 +161,10 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 | 2021-06-24 | 1.0.0.3 | - Allow for `--sync` to run without admin<br>- Add additional S3 switches for using session tokens and supplying a key prefix<br>- nuget updates<br>- gkape can now save `_kape.cli` once configured. gkape will also prompt to load the FIRST command line from `_kape.cli` when starting. This is useful for preconfiguring KAPE for less technical people to use remotely, etc. |
 | 2021-10-21 | 1.1.0.0 | - Fix Editor and Save As in gkape<br>- nuget/control updates<br>- Tweak how KAPE is accessing files in the root of VSCs<br>- Changed sync to accept a GitHub repo (optional) to pull Targets and Modules from. Without specifying a url, the official repo is used. The URL is expected to have the same format as the official repo should an alternate URL be used.<br>- Sync will also include `.template` and `.guide` files in the Targets and Modules directory<br>- Fix issue with Disable flush warnings related to mdest existing<br>- When transferring files, add timestamp to end of directory in format `yyyyMMddHHmmss`. Example: `KAPE_data_push{comment}_yyyyMMddHHmmss`, where comment is optionally supplied.<br>- When using Azure SAS, add details to test file being uploaded (timestamp, computer name, os info, comment) vs simply 'test upload' for the contents<br>- Added `--scd` switch to specify the default path to upload files to. If the directory does not exist, it will be created. Do NOT use leading slash! Example: `--scd foo/bar/wizzo`<br>- Updated included Targets/Modules, and Module binaries |
 | 2021-11-16 | 1.1.0.1 | - Fix issue with SFTP verification when using `-scd`and the directory already existed<br>- Updated Targets and Modules<br>- Nuget and control updates |
+| 2022-03-10 | 1.2.0.0 | - SFTP tweaks for partially existing directory structure<br> - Nuget package updates<br> - Updated EZTools binaries<br>- Sync'ed Targets and Modules |
+
+
+SFTP tweaks for partially existing directory structure
+Nuget package updates
+Updated EZTools binaries
+Sync'ed Targets and Modules
