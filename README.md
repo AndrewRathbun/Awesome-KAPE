@@ -40,6 +40,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [KAPE-Binary-Downloads](https://github.com/esecrpm/KAPE-Binary-Downloads)
 - [kape-remote-collections](https://github.com/mark-hallman/kape-remote-collections)
 - [KAPE_Tools](https://github.com/mdegrazia/KAPE_Tools)
+- [KAPEConfigurationFIles](https://github.com/robertstrom/KAPEConfigurationFIles)
 - [KapeMisc](https://github.com/dsplice/KapeMisc)
 - [RemoteKapeTriage](https://github.com/Richard1611/RemoteKapeTriage)
 
