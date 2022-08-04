@@ -12,6 +12,8 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
   - [KAPE Quarterly Update – Q3 2021](https://www.kroll.com/en-ca/insights/publications/cyber/kape-quarterly-update-q3-2021)
   - [KAPE Quarterly Update – Q4 2021](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q4-2021)
   - [KAPE Quarterly Update - Q1 2022](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q1-2022)
+  - [KAPE Quarterly Update - Q2 2022](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q2-2022)
+  
 - [KapeTriage MindMap for DFIR Practitioners](https://www.kroll.com/en/insights/publications/cyber/kapetriage-mindmap-for-dfir-practitioners)
 
 ## Tool-Related GitHub Repos
