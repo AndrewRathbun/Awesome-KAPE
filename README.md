@@ -95,6 +95,7 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 - [KAPE at Scale](https://malwaremaloney.blogspot.com/2020/06/kape-at-scale.html)
 - [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 - [Adding RAM Collections to KAPE Triage](https://bakerstreetforensics.com/2021/12/13/adding-ram-collections-to-kape-triage/)
+- [KAPE batch mode, ARM Memory, updates to CSIRT-Collect, and all the things I learned along the way.](https://bakerstreetforensics.com/2023/01/16/kape-batch-mode-arm-memory-updates-to-csirt-collect-and-all-the-things-i-learned-along-the-way/)
 
 ## Mind Maps
 
