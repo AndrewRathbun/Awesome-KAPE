@@ -53,6 +53,10 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md) ship with KAPE, so they are very relevant to KAPE's overall functionality. The following EZ Tools have KAPE Modules written for them and these repos should be monitored for activity given that they will directly influence KAPE output.
 
+#### EZ Tools Manuals
+
+[Eric Zimmerman](https://github.com/EricZimmerman) and [Andrew Rathbun](https://github.com/AndrewRathbun) co-authored EZ Tools Manuals on Leanpub. You can find the book [here](https://leanpub.com/eztoolsmanuals)!
+
 #### Official GitHub repositories:
 
   - [AmcacheParser](https://github.com/EricZimmerman/AmcacheParser)
