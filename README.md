@@ -30,7 +30,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 
 #### Community KAPE-related GitHub repositories:
 
-- [CSIRT-Collect](https://github.com/dwmetz/CSIRT-Collect)
+- [CyberPipe](https://github.com/dwmetz/CyberPipe)
 - [DFRWS-2019-KAPE-Workshop](https://github.com/mark-hallman/DFRWS-2019-KAPE-Workshop)
 - [ForensicImageKAPEOutput](https://github.com/AndrewRathbun/ForensicImageKAPEOutput)
 - [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries)
