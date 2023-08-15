@@ -38,6 +38,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [ForensicImageKAPEOutput](https://github.com/AndrewRathbun/ForensicImageKAPEOutput)
 - [Get-KapeModuleBinaries](https://github.com/grayfold3d/Get-KapeModuleBinaries)
 - [Get-MiniTimeline](https://github.com/evild3ad/Get-MiniTimeline)
+- [Heed](https://github.com/XCID11/Heed)
 - [Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
 - [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape)
 - [IRCP](https://github.com/hackjalstead/IRCP)
