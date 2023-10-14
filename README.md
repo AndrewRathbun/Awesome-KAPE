@@ -98,13 +98,14 @@ The command line versions of [Eric Zimmerman's Tools](https://ericzimmerman.gith
 ### Blog Posts/Guides
 
 - [AboutDFIR's KAPE Guide](https://aboutdfir.com/toolsandartifacts/windows/kape/)
+- [Adding RAM Collections to KAPE Triage](https://bakerstreetforensics.com/2021/12/13/adding-ram-collections-to-kape-triage/)
 - [Exploring KAPE’s Graphical User Interface in v0.8.2.0](https://www.kroll.com/en/insights/publications/cyber/exploring-kapes-graphical-user-interface)
 - [Forensically Unpacking EventTranscript.db: An Investigative Series](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript)
   - Namely, [Parsing EventTranscript.db With KAPE and SQLECmd](https://www.kroll.com/en/insights/publications/cyber/forensically-unpacking-eventtranscript/parsing-eventtranscript-with-kape-and-sqlecmd)
 - [KAPE at Scale](https://malwaremaloney.blogspot.com/2020/06/kape-at-scale.html)
-- [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
-- [Adding RAM Collections to KAPE Triage](https://bakerstreetforensics.com/2021/12/13/adding-ram-collections-to-kape-triage/)
 - [KAPE batch mode, ARM Memory, updates to CSIRT-Collect, and all the things I learned along the way.](https://bakerstreetforensics.com/2023/01/16/kape-batch-mode-arm-memory-updates-to-csirt-collect-and-all-the-things-i-learned-along-the-way/)
+- [Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint.](https://medium.com/@DFIRanjith/remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint-f7d3a857e2e0)
+- [SOF-ELK and Integration with KAPE](https://aboutdfir.com/sof-elk-and-integration-with-kape/)
 
 ## Mind Maps
 
