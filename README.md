@@ -43,6 +43,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [Invoke-Kape](https://github.com/keyboardcrunch/Invoke-Kape)
 - [IRCP](https://github.com/hackjalstead/IRCP)
 - [iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader)
+- [Kape2ADX](https://github.com/mikecybersec/Kape2ADX)
 - [kape-at-scale](https://github.com/mark-hallman/kape-at-scale)
 - [KAPE-Automation](https://github.com/Beercow/KAPE-Automation)
 - [KAPE-Binary-Downloads](https://github.com/esecrpm/KAPE-Binary-Downloads)
