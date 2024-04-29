@@ -5,7 +5,6 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [Download KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) - Be sure to submit the form with ad blocking (and similar) extensions disabled for successful form submission. Alternatively, submit the form in an Incognito/Private window
 - [KAPE Enterprise License](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/enterprise-license)
   - TL;DR: if you make money off KAPE in a paid engagement, you need a license! Otherwise, it's free for everyone else including but not limited to Law Enforcement, students, researchers, etc
-- [KAPE Training](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape/training) - Kroll offers a one-day intensive training covering EZ Tools and KAPE. Email [kape@kroll.com](mailto:kape@kroll.com) for more information or complete the `Book a Session Today` form (Training is moving to self-paced model, stay tuned!)
 - Kroll Blog - KAPE Quarterly Updates
   - [KAPE Quarterly Update – Q1 2021](https://www.kroll.com/en-ca/insights/publications/cyber/kape-quarterly-update-q1-2021)
   - [KAPE Quarterly Update – Q2 2021](https://www.kroll.com/en-ca/insights/publications/cyber/kape-quarterly-update-q2-2021)
@@ -18,6 +17,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
   - [KAPE Quarterly Update - Q1 2023](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q1-2023)
   - [KAPE Quarterly Update - Q2 2023](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q2-2023)
   - [KAPE Quarterly Update - Q3 2023](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q3-2023)
+  - [KAPE Quarterly Update - Q4 2023](https://www.kroll.com/en/insights/publications/cyber/kape-quarterly-update-q4-2023)
 
 - [KapeTriage MindMap for DFIR Practitioners](https://www.kroll.com/en/insights/publications/cyber/kapetriage-mindmap-for-dfir-practitioners)
 - [Kroll Artifact Parser and Extractor (KAPE) Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
