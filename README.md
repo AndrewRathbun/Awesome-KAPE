@@ -56,6 +56,7 @@ In line with other Awesome GitHub repos, Awesome-KAPE serves as a curated list o
 - [KapeStrike](https://github.com/Snausage0x45/KapeStrike)
 - [RemoteKapeTriage](https://github.com/Richard1611/RemoteKapeTriage)
 - [Kape-MDE](https://github.com/dsplice/kape-mde)
+- [Kapesaw](https://github.com/acquiredsecurity/kapesaw)
 
 ### EZ Tools
 
